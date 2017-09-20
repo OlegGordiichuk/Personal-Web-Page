@@ -1,7 +1,7 @@
 baseurl = "https://oleggordiichuk.github.io/Personal-Web-Page/"
 languageCode = "en-US"
 title = "Oleg Gordiichuk Software Engineer"
-
+publishDir = "docs"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
