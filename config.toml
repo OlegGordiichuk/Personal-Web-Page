@@ -3,7 +3,7 @@ languageCode = "en-US"
 title = "Oleg Gordiichuk Software Engineer"
 publishDir = "docs"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-106775102-1"
 
 theme = "hugo-sustain"
 
