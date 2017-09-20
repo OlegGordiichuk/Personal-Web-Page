@@ -1,0 +1,20 @@
+baseurl = "https://example.com/"
+languageCode = "en-US"
+title = "Oleg Gordiichuk Software Engineer"
+
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+theme = "hugo-sustain"
+
+[params]
+  avatar = "profile.jpeg"
+  author = "Oleg Gordiichuk"
+  description = "Personal web page of the Oleg Gordiichuk."
+
+[params.social]
+  Github        = "OlegGordiichuk"
+  Email         = "oleghordiichuk@gmail.com"
+  Twitter       = "Oleg_Gordiichuk"
+  LinkedIn      = "oleg-gordiichuk-54330a45"
+  Stackoverflow = "users/1213285"
